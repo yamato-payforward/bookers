@@ -1,0 +1,10 @@
+<%= form_for(@book, method: :patch) do |f| %>
+  <h4>Title</h4>
+  <%= f.text_field :title %>
+  <h4>Title</h4>
+  <%= f.text_area :body %>
+  <%= f.submit 'Update Book' %>    
+<% end %>
+
+<%= link_to "Show" , book_path(@book) %>
+<%= link_to "Back" , books_path %>

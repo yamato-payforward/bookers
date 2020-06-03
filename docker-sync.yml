@@ -1,0 +1,6 @@
+version: 2
+syncs:
+  yamato_syncs:
+    src: './' 
+    sync_strategy: 'native_osx'
+    sync_excludes: ['.git','coverage', 'log']

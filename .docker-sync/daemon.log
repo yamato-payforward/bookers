@@ -1,0 +1,18 @@
+          ok  Starting native_osx for sync yamato_syncs
+          ok  yamato_syncs container still running, restarting unison in container
+unison: stopped
+unison: ERROR (spawn error)
+     success  Sync container started
+     success  Showing unison logs from your sync container: yamato_syncs
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:30 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:31 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)
+[2020-06-04 06:40:34 +0900] Sync Log:  Fatal error: End_of_file exception raised in loading archive (this indicates a bug!)

@@ -1,0 +1,16 @@
+<div class="notifications time-limit">
+  <% flash.each do |key, value| %>
+    <% if key == "alert" %>
+      <% binding.pry %>
+      <% message = value.gsub(",","<br>") %>
+      <div class="alert">
+        <%= message.html_safe %>
+      </div>
+    <% else%>
+      <div class="notice">
+        <%= value %>
+      </div>
+    <% end%>
+
+  <% end%>
+</div>
